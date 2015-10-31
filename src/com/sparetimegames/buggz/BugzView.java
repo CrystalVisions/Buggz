@@ -30,6 +30,9 @@ import java.util.Random;
 /**
  * Created by IntelliJ IDEA.
  * User: dianeloux
+ * Based on CannonView.java
+ * from Android for Programmers: An App-Driven Approach
+ * by Paul Deitel, Abbey Deitel and Harvey Deitel
  * Date: 7/30/12
  * Time: 8:10 PM
  * Copyright(c) Diane Loux 2012
